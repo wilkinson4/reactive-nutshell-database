@@ -31,7 +31,7 @@
       "date": "9/5/2019",
       "synopsis": "A French guard has been charged of severe taunting of one King Arthur in his quest for the Holy Grail",
       "url": "www.YourFatherSmeltOfElderberries.com",
-      "userId": 2,
+      "userId": 4,
       "id": 2
     },
     {
@@ -47,7 +47,7 @@
       "date": "9/5/2019",
       "synopsis": "Synopsis",
       "url": "www.test.com",
-      "userId": 1,
+      "userId": 4,
       "id": 4
     }
   ],
@@ -63,14 +63,14 @@
       "name": "Ni",
       "date": "2019-09-13",
       "location": "Shrubbery",
-      "userId": 2,
+      "userId": 4,
       "id": 2
     },
     {
       "name": "Swallow Watching",
       "date": "2019-09-21",
       "location": "Bridge",
-      "userId": 3,
+      "userId": 4,
       "id": 3
     }
   ],
@@ -90,21 +90,21 @@
   ],
   "tasks": [
     {
-      "userId": 1,
+      "userId": 4,
       "name": "Retrieve the Holy Grail!",
       "date": "2019-09-30",
       "isCompleted": false,
       "id": 1
     },
     {
-      "userId": 2,
+      "userId": 4,
       "name": "Ni",
       "date": "2019-09-09",
       "isCompleted": false,
       "id": 2
     },
     {
-      "userId": 3,
+      "userId": 4,
       "name": "Learn the difference of mass between African and European swallows",
       "date": "2019-09-20",
       "isCompleted": false,
